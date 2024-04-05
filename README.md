@@ -16,3 +16,11 @@ Partial success in our project would mean creating a risk-assessment model witho
 Resources Required
 Our project utilizes a synthetic data set created for an Introduction to Biomedical Data Science Textbook. The data was created using Synthea, a synthetic patient generator that models the medical history of synthetic patients. Synthea’s mission is “to output high-quality synthetic, realistic but not real, patient data and associated health records covering every aspect of healthcare.” This is also much easier to access than real patient data. 
 Link to the Data: https://data.world/siyeh/synthetic-medical-data 
+
+
+What You Will Learn
+
+Julia: Looking back to my goal-setting reflection created at the beginning of the course, I wrote that I would like to complete all project milestones on time to keep myself and the group accountable in our semester time frame, as well as contribute to the project in an equal manner including in the algorithm implementation and project presentation, doing what I can to be a great group project partner. I am excited about this project proposal as it seems like we are all equally interested and invested in the topic, which sets us up for team-work success. I think I will be able to learn a lot through working on this project, namely to understand how algorithms can reveal biases and trends in the health of different populations. I think the thorough dissection of how our model and data pertains to the three views of fairness will help me learn how to evaluate fairness as a whole, as well as strengthen my evaluative writing skills. 
+
+Lindsey: In my goal-setting reflection, I described my goal to conduct a series of experiments to assess algorithm bias in a certain class of algorithm, specifically an algorithm with broad real life application. This project proposal is similar, but not identical to this aspiration. This project also aims to analyze bias in terms of data with real life applications. However, instead of assessing a machine learning model, I am utilizing a machine learning model to understand the bias of a data set. Through this slightly altered project goal, I will be able to improve my ability to analyze machine learning models critically and become a socially responsible engineer which was my ultimate goal, not only for the project, but for the class as a whole.
+
