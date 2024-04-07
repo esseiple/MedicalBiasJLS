@@ -26,3 +26,15 @@ Lindsey: In my goal-setting reflection, I described my goal to conduct a series 
 
 Sophie: In my original goal-setting reflection, I wrote that I wanted to explore a project at the intersection of healthcare and bias. I think this proposal aligns perfectly with those goals, and I’m excited about the opportunity to explore a medical dataset deeply and better understand how algorithms can help enlighten biases in populations’ health. I am also looking forward to the opportunity to include aspects of scientific writing like figures and discussions of results, as that was another aspect of my reflection which I noted as skills I wanted to make use of/practice using.
 
+Risk Statement
+Risks that could potentially stop us from achieving our full deliverable would be if there are gaps in our chosen data that exclude identity groups. Additionally, if the data does not represent the real bias present in our healthcare system, we would have to analyze the lack of bias instead of the presence of it. While this would change the nature of what we anticipate to discover, we would still be able to complete this project. Ideally, in order to fully analyze the bias in our healthcare system we need data that accurately reflects the reality for different groups of people.
+
+
+Ethics Statement
+Our project has the potential to benefit groups that are marginalized by the healthcare system. By analyzing the fairness of the model we create based on healthcare data, we aim to highlight the historical and current inequities in the healthcare system. 
+If our project does not identify biases reflected in the dataset, we could potentially harm the exact groups we are trying to help benefit, the groups that are marginalized by the healthcare system. Another potential harm is if the synthetic data contains gaps in our chosen data that exclude identity groups, we could potentially be harming those by not addressing them. 
+The main purpose of our project is to explore exactly these kinds of potential algorithmic biases. While we won’t necessarily be mitigating these biases before they happen, as that would change our own analysis, the majority of our writing and visualizations will be spent picking apart these decisions for evidence of bias.
+
+Tentative Timeline
+Keeping in mind that we will have a checkpoint for the project in Week 9 or 10, and then final presentations in Week 12, our tentative timeline is as follows. Our goal for week three is to have our working risk-score algorithm and a few exploratory data analysis visualizations. By week six, we hope to have an analysis done for at least one selected condition/procedure, for example risk score for asthma by race and/or sex.
+
